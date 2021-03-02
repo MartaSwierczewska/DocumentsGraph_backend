@@ -36,6 +36,7 @@ Data of investments, categories and activities to do is stored in `data.sql` fil
 
 ## Database
 Thanks to `spring.jpa.hibernate.ddl-auto=create` tables and entities are created automatically based on classes with `@Entity` annotation.
+
 ![image](https://user-images.githubusercontent.com/44815230/109699353-c2e18a00-7b90-11eb-9cf4-0ee42002bc32.png)
 
 ## Final effect
