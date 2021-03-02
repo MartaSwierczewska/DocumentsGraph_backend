@@ -44,4 +44,12 @@ Data of investments, categories and activities to do is stored in `data.sql` fil
 ![houses](https://user-images.githubusercontent.com/44815230/109698848-24552900-7b90-11eb-8c5d-a051f6940d25.png)
 #### Adding new investment with possible todos 
 ![dodanie-inw](https://user-images.githubusercontent.com/44815230/109698932-39ca5300-7b90-11eb-80b1-bf65bc604dfb.png)
+#### Adding new investment is not possible due to missing permissions
+![brak-uprawnien](https://user-images.githubusercontent.com/44815230/109702758-f1f9fa80-7b94-11eb-9e45-319937989b7d.png)
+#### Categories of tasks after choosing particular investment
+![kategorie](https://user-images.githubusercontent.com/44815230/109702954-32597880-7b95-11eb-9f8a-a33523217b7b.png)
+#### List of tasks with possible document upload
+![list-todos](https://user-images.githubusercontent.com/44815230/109703054-51f0a100-7b95-11eb-9d74-7c1a469dd8b4.png)
+
+
 
