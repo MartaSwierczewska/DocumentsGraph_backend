@@ -35,6 +35,7 @@ docker-compose stop
 Data of investments, categories and activities to do is stored in `data.sql` file. When application is standing commander reads the file and execute the SQL commands contained inside. That causes inevitable loss of edited, added and deleted data, but for purpose of student project was the most comfortable.  
 
 ## Database
+Thanks to `spring.jpa.hibernate.ddl-auto=create` tables and entities are created automatically based on classes with @Entity annotation.
 ![image](https://user-images.githubusercontent.com/44815230/109699353-c2e18a00-7b90-11eb-9cf4-0ee42002bc32.png)
 
 ## Final effect
