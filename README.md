@@ -18,18 +18,19 @@ Clone this repo to your machine using git clone https://github.com/MartaSwiercze
 ### Available commands
 
 #### Installing and running:
-docker-compose up --build -d
+`docker-compose up --build -d`
+
+
+Application is running locally and can be seen under local address: `http://localhost:3000/`. Backend: `http://localhost:8080/`
 
 #### Monitoring logs:
-docker-compose logs -f
+`docker-compose logs -f`
 
 #### Starting:
-docker-compose start
-
-Application is running locally and can be seen under local address: `http://localhost:3000/`. Backend: `http://localhost:8080/` 
+`docker-compose start`
 
 #### Stopping:
-docker-compose stop 
+`docker-compose stop`
 
 ## Configuration
 Data of investments, categories and activities to do is stored in `data.sql` file. All of SQL commands are executed during the application startup. 
