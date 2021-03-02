@@ -1,5 +1,5 @@
 # InvestmentsManagementSystem
-Backend of web application that stores information about current investments in a company with a list of required tasks for each and possibility to upload necessary documents. Project of frontend side can be found here: https://github.com/MartaSwierczewska/DocumentsGraph_front
+Backend of web application that stores information about current investments in a company with a list of required tasks for each and possibility to upload necessary documents. Project of frontend side can be found here: https://github.com/MartaSwierczewska/InvestmentsManagementSystem_frontend
 
 ## Technologies
 Java 11, Spring Boot 2, Spring Security
