@@ -13,7 +13,7 @@ Credentials for managing postgres are stored in `application.properties` file. U
 Since project consist of Docker images that are able to run together via docker-compose, only requirement is Docker and docker-compose.
 
 ### Clone
-Clone this repo to your machine using git clone https://github.com/MartaSwierczewska/DocumentsGraph_back.git (https) or git clone git@github.com:MartaSwierczewska/DocumentsGraph_back.git (ssh)
+Clone this repo to your machine using git clone https://github.com/MartaSwierczewska/InvestmentsManagementSystem_backend.git (https) or git clone git@github.com:MartaSwierczewska/InvestmentsManagementSystem_backend.git (ssh)
 
 ### Available commands
 
